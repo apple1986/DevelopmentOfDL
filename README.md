@@ -15,15 +15,13 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 * [*Optimization algorithm*](#11)
 * [*Regularization Constraint*](#12)
 
-
 ***
 <h2 id="1">  Scale Features
-```html
 <table>
   <tr>
-    <th>Number</th>
-    <th>Article Title</th>
-    <th>Article Link</th>
+    <th class="tg-nrix" align="center" >Number</th>
+    <th class="tg-nrix" align="center" >Article Title</th>
+    <th class="tg-nrix" align="center" >Article Link</th>
   </tr>
   <tr>
     <td>1</td>
