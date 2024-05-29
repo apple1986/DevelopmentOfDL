@@ -69,7 +69,9 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 
 ***
-## Efficient reasoning
+## Activation Function
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
 | 1 | 文本 | [Link]() |
 | 2 | 文本 | [Link]() |
 | 3 | 文本 | [Link]() |
