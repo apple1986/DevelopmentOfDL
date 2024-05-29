@@ -16,7 +16,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 * [Regularization Constraint](#12)
 
 ***
-## Scale Features
+<h2 id="1"> Scale Features
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
