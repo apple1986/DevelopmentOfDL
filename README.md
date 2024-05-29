@@ -45,7 +45,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 23 | CEDNet: A Cascade Encoder-Decoder Network for Dense Prediction | [Link](https://arxiv.org/abs/2302.06052) |
 
 ***
-## Efficient reasoning
+<h2 id="2"> Efficient reasoning
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
@@ -83,7 +83,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 32 | N-gram in Swin Transformers for Efficient Lightweight Image Super-resolution | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Choi_N-Gram_in_Swin_Transformers_for_Efficient_Lightweight_Image_Super-Resolution_CVPR_2023_paper.html) |
 
 ***
-## Activation Function
+<h2 id="3"> Activation Function
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
@@ -103,7 +103,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 
 ***
-## Loss Function
+<h2 id="4"> Loss Function
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
@@ -120,7 +120,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 
 ***
-## Transfer learning
+<h2 id="5"> Transfer learning
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
@@ -152,7 +152,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 
 ***
-## Weight Initialization
+<h2 id="6"> Weight Initialization
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
@@ -168,7 +168,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 
 ***
-## Data Augmentation
+<h2 id="7"> Data Augmentation
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
@@ -184,7 +184,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 10 | Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review | [Link](https://www.mdpi.com/2313-433X/9/4/81) |
 
 ***
-## Feature Normalization
+<h2 id="8"> Feature Normalization
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
@@ -201,7 +201,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 
 ***
-## Network 
+<h2 id="9"> Network 
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
@@ -222,7 +222,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 
 ***
-## Related research
+<h2 id="10"> Related research
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
@@ -242,7 +242,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 
 ***
-## Optimization algorithm
+<h2 id="11"> Optimization algorithm
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
@@ -258,7 +258,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 
 ***
-## Regularization Constraint
+<h2 id="12"> Regularization Constraint
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
