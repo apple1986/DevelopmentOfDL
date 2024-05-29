@@ -43,6 +43,8 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 21 | Lite DETR: An Interleaved Multi-Scale Encoder for Efficient DETR | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Lite_DETR_An_Interleaved_Multi-Scale_Encoder_for_Efficient_DETR_CVPR_2023_paper.html) |
 | 22 | Seeing Beyond the Patch: Scale-Adaptive Semantic Segmentation of High-Resolution Remote Sensing Imagery Based on Reinforcement Learning | [Link](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Seeing_Beyond_the_Patch_Scale-Adaptive_Semantic_Segmentation_of_High-resolution_Remote_ICCV_2023_paper.html) |
 | 23 | CEDNet: A Cascade Encoder-Decoder Network for Dense Prediction | [Link](https://arxiv.org/abs/2302.06052) |
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
+
 
 ***
 <h2 id="2"> Efficient reasoning </h2>
@@ -81,6 +83,8 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 30 | Efficientvit: Memory Efficient Vision Transformer with Cascaded Group Attention | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Efficientvit_Memory_Efficient_Vision_Transformer_With_Cascaded_Group_Attention_CVPR_2023_paper.html) |
 | 31 | Run, Don’t Walk: Chasing Higher Flops for Faster Neural Networks | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Run_Dont_Walk_Chasing_Higher_Flops_for_Faster_Neural_Networks_CVPR_2023_paper.html) |
 | 32 | N-gram in Swin Transformers for Efficient Lightweight Image Super-resolution | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Choi_N-Gram_in_Swin_Transformers_for_Efficient_Lightweight_Image_Super-Resolution_CVPR_2023_paper.html) |
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
+
 
 ***
 <h2 id="3"> Activation Function </h2>
@@ -100,16 +104,16 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 11 | Parametric Leaky Tanh: A New Hybrid Activation Function For Deep Learning | [Link](https://arxiv.org/abs/2310.07720) |
 | 12 | Gelu Activation Function In Deep Learning: A Comprehensive Mathematical Analysis And Performance | [Link](https://arxiv.org/abs/2305.12073) |
 | 13 | Deep Network Approximation: Beyond Relu To Diverse Activation Functions | [Link](https://www.jmlr.org/papers/volume25/23-0912/23-0912.pdf) |
-
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
 
 ***
 <h2 id="4"> Loss Function </h2>
 
 | Number | Article Title | Article Link |
-| ------ | ------ | ------ |
+| ------------ | ------------ | ------------ |
 | 1 | FaceNet: A Unified Embedding for Face Recognition and Clustering | [Link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html) |
 | 2 | A Discriminative Feature Learning Approach for Deep Face Recognition | [Link](https://link.springer.com/chapter/10.1007/978-3-319-46478-7_31) |
-| 3 | Focal Loss for Dense Object Detection | [Link](https://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html) |
+| 3 | Focal Loss for Dense Object Detection | [Link](https://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Lo0ss_for_ICCV_2017_paper.html) |
 | 4 | A General and Adaptive Robust Loss Function | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Barron_A_General_and_Adaptive_Robust_Loss_Function_CVPR_2019_paper.html) |
 | 5 | Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Rezatofighi_Generalized_Intersection_Over_Union_A_Metric_and_a_Loss_for_CVPR_2019_paper.html) |
 | 6 | Symmetric Cross Entropy for Robust Learning with Noisy Labels | [Link](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Symmetric_Cross_Entropy_for_Robust_Learning_With_Noisy_Labels_ICCV_2019_paper.html) |
@@ -117,7 +121,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 8 | ArcFace: Additive Angular Margin Loss for Deep Face Recognition | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.html) |
 | 9 | Balanced MSE for Imbalanced Visual Regression | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Ren_Balanced_MSE_for_Imbalanced_Visual_Regression_CVPR_2022_paper.html) |
 | 10 | Cross-Entropy Loss Functions: Theoretical Analysis and Applications | [Link](https://proceedings.mlr.press/v202/mao23b.html) |
-
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
 
 ***
 <h2 id="5"> Transfer learning </h2>
@@ -149,7 +153,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 23 | A Simple Multi-Modality Transfer Learning Baseline For Sign Language Translation | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html) |
 | 24 | How Well Do Sparse Imagenet Models Transfer? | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Iofinova_How_Well_Do_Sparse_ImageNet_Models_Transfer_CVPR_2022_paper.html) |
 | 25 | Zero-Shot Generative Model Adaptation Via Image-Specific Prompt Learning | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Zero-Shot_Generative_Model_Adaptation_via_Image-Specific_Prompt_Learning_CVPR_2023_paper.html) |
-
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
 
 ***
 <h2 id="6"> Weight Initialization </h2>
@@ -165,7 +169,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 7 | Instance Normalization: The Missing Ingredient For Fast Stylization | [Link](https://arxiv.org/abs/1607.08022) |
 | 8 | On Weight Initialization In Deep Neural Networks | [Link](https://arxiv.org/abs/1704.08863) |
 | 9 | Understanding And Improving Layer Normalization | [Link](https://proceedings.neurips.cc/paper_files/paper/2019/file/2f4fe03d77724a7217006e5d16728874-Reviews.html) |
-
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
 
 ***
 <h2 id="7"> Data Augmentation </h2>
@@ -182,6 +186,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 8 | Albumentations: Fast And Flexible Image Augmentations | [Link](https://www.mdpi.com/2078-2489/11/2/125?ref=https://githubhelp.com) |
 | 9 | Randomized Quantization: A Generic Augmentation For Data Agnostic Self-Supervised Learning | [Link](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Randomized_Quantization_A_Generic_Augmentation_for_Data_Agnostic_Self-supervised_Learning_ICCV_2023_paper.html) |
 | 10 | Deep Learning Approaches For Data Augmentation In Medical Imaging: A Review | [Link](https://www.mdpi.com/2313-433X/9/4/81) |
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
 
 ***
 <h2 id="8"> Feature Normalization </h2>
@@ -198,7 +203,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 8 | Experimenting With Normalization Layers In Federated Learning On Non-Iid Scenarios | [Link](https://ieeexplore.ieee.org/abstract/document/10486903) |
 | 9 | Fault Diagnosis Of Rotating Machinery Based On The Improved Multidimensional Normalization Resnet | [Link](https://ieeexplore.ieee.org/abstract/document/10177201) |
 | 10 | Cluster-Instance Normalization: A Statistical Relation-Aware Normalization For Generalizable Person Re-Identification | [Link](https://ieeexplore.ieee.org/abstract/document/10243072) |
-
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
 
 ***
 <h2 id="9"> Network  </h2>
@@ -219,7 +224,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 12 | Vision Permutator: A Permutable Mlp-Like Architecture For Visual Recognition | [Link](https://arxiv.org/abs/2106.12368) |
 | 13 | Music Generation Using An Lstm | [Link](https://arxiv.org/pdf/2203.12105) |
 | 14 | Sequencer: Deep LSTM For Image Classification | [Link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f9d7d6c695bc983fcfb5b70a5fbdfd2f-Abstract-Conference.html) |
-
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
 
 ***
 <h2 id="10"> Related research </h2>
@@ -239,7 +244,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 11 | Transferability In Deep Learning: A Survey | [Link](https://arxiv.org/abs/2201.05867) |
 | 12 | Techniques And Challenges Of Image Segmentation: A Review | [Link](https://www.mdpi.com/2079-9292/12/5/1199) |
 | 13 | Transfer Learning In Deep Reinforcement Learning: A Survey | [Link](https://ieeexplore.ieee.org/abstract/document/10172347) |
-
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
 
 ***
 <h2 id="11"> Optimization algorithm </h2>
@@ -255,7 +260,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 7 | Fixing Weight Decay Regularization In Adam | [Link](https://openreview.net/forum?id=rk6qdGgCZ) |
 | 8 | On The Convergence Of Adam And Beyond | [Link](https://arxiv.org/abs/1904.09237) |
 | 9 | Adaptive Gradient Methods With Dynamic Bound Of Learning Rate | [Link](https://arxiv.org/abs/1902.09843) |
-
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
 
 ***
 <h2 id="12"> Regularization Constraint </h2>
@@ -278,5 +283,5 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 14 | R-Drop: Regularized Dropout For Neural Networks | [Link](https://proceedings.neurips.cc/paper/2021/hash/5a66b9200f29ac3fa0ae244cc2a51b39-Abstract.html) |
 | 15 | Image Data Augmentation Approaches: A Comprehensive Survey And Future Directions | [Link](https://arxiv.org/abs/2301.02830) |
 | 16 | Out-Of-Distribution Detection Via Frequency-Regularized Generative Models | [Link](https://openaccess.thecvf.com/content/WACV2023/html/Cai_Out-of-Distribution_Detection_via_Frequency-Regularized_Generative_Models_WACV_2023_paper.html) |
-
+|   &emsp; |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp;  |
   
