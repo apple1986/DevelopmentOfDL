@@ -38,7 +38,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 1 | Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | [Link](https://ojs.aaai.org/index.php/aaai/article/view/11231) |
 | 2 | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | [Link](https://arxiv.org/abs/1704.04861) |
 | 3 | ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices | [Link](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ShuffleNet_An_Extremely_CVPR_2018_paper.html) |
-| 4 | Xception: Deep Learning with DepthwiseSeparable Convolutions | [Link](https://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html) |
+| 4 | Xception: Deep Learning with Depthwise Separable Convolutions | [Link](https://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html) |
 | 5 | IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks | [Link](https://arxiv.org/abs/1806.00178) |
 | 6 | CondenseNet: An Efficient DenseNet using Learned Group Convolutions | [Link](https://openaccess.thecvf.com/content_cvpr_2018/html/Huang_CondenseNet_An_Efficient_CVPR_2018_paper.html) |
 | 7 | FD-MOBILENET: IMPROVED MOBILENET WITH A FAST DOWNSAMPLING STRATEGY | [Link](https://ieeexplore.ieee.org/abstract/document/8451355) |
@@ -51,23 +51,22 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 14 | HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions | [Link](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_HBONet_Harmonious_Bottleneck_on_Two_Orthogonal_Dimensions_ICCV_2019_paper.html) |
 | 15 | MnasNet: Platform-Aware Neural Architecture Search for Mobile | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper) |
 | 16 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | [Link](https://proceedings.mlr.press/v97/tan19a.html?ref=jina-ai-gmbh.ghost.io) |
-| 17 | PROXYLESSNAS: DIRECT NEURAL ARCHITECTURE SEARCH ON TARGET TASK AND HARDWARE | [Link](https://arxiv.org/abs/1812.00332) |
-| 18 | GhostNet: More Features from Cheap Operations | [Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Han_GhostNet_More_Features_From_Cheap_Operations_CVPR_2020_paper.html) |
-| 19 | Model Rubik’s Cube: Twisting Resolution, Depth and Width for TinyNets | [Link](https://proceedings.neurips.cc/paper_files/paper/2020/hash/e069ea4c9c233d36ff9c7f329bc08ff1-Abstract.html) |
-| 20 | WeightNet: Revisiting the Design Space of Weight Networks | [Link](https://www.semanticscholar.org/reader/4d2534fbcecc32bc181d1eb8e9f00d3e71cfe14f) |
-| 21 | Training data-efficient image transformers & distillation through attention | [Link](https://proceedings.mlr.press/v139/touvron21a) |
-| 22 | RegNet: Self-Regulated Network for Image Classification | [Link](https://ieeexplore.ieee.org/abstract/document/9743274) |
-| 23 | Swin Transformer: Hierarchical Vision Transformer using Shifted Windows | [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper) |
-| 24 | MicroNet: Improving Image Recognition with Extremely Low FLOPs | [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Li_MicroNet_Improving_Image_Recognition_With_Extremely_Low_FLOPs_ICCV_2021_paper.html) |
-| 25 | Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions | [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Pyramid_Vision_Transformer_A_Versatile_Backbone_for_Dense_Prediction_Without_ICCV_2021_paper.html) |
-| 26 | A ConvNet for the 2020s | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html) |
-| 27 | EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications | [Link](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_1) |
-| 28 | MetaFormer Is Actually What You Need for Vision | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_MetaFormer_Is_Actually_What_You_Need_for_Vision_CVPR_2022_paper.html) |
-| 29 | CYCLEMLP: A MLP-LIKE ARCHITECTURE FOR DENSE PREDICTION | [Link](https://arxiv.org/abs/2107.10224) |
-| 30 | EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_EfficientViT_Memory_Efficient_Vision_Transformer_With_Cascaded_Group_Attention_CVPR_2023_paper.html) |
-| 31 | Run, Don’t Walk: Chasing Higher FLOPS for Faster Neural Networks | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Run_Dont_Walk_Chasing_Higher_FLOPS_for_Faster_Neural_Networks_CVPR_2023_paper.html) |
-| 32 | N-Gram in Swin Transformers for efficient Lightweight Image Super-Resolution | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Choi_N-Gram_in_Swin_Transformers_for_Efficient_Lightweight_Image_Super-Resolution_CVPR_2023_paper.html) |
-
+| 17 | Proxylessnas: Direct Neural Architecture Search on Target Task and Hardware | [Link](https://arxiv.org/abs/1812.00332) |
+| 18 | Ghostnet: More Features from Cheap Operations | [Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Han_GhostNet_More_Features_From_Cheap_Operations_CVPR_2020_paper.html) |
+| 19 | Model Rubik’s Cube: Twisting Resolution, Depth and Width for Tinynets | [Link](https://proceedings.neurips.cc/paper_files/paper/2020/hash/e069ea4c9c233d36ff9c7f329bc08ff1-Abstract.html) |
+| 20 | Weightnet: Revisiting the Design Space of Weight Networks | [Link](https://www.semanticscholar.org/reader/4d2534fbcecc32bc181d1eb8e9f00d3e71cfe14f) |
+| 21 | Training Data-efficient Image Transformers & Distillation Through Attention | [Link](https://proceedings.mlr.press/v139/touvron21a) |
+| 22 | Regnet: Self-regulated Network for Image Classification | [Link](https://ieeexplore.ieee.org/abstract/document/9743274) |
+| 23 | Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows | [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper) |
+| 24 | Micronet: Improving Image Recognition with Extremely Low Flops | [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Micronet_Improving_Image_Recognition_With_Extremely_Low_Flops_ICCV_2021_paper.html) |
+| 25 | Pyramid Vision Transformer: a Versatile Backbone for Dense Prediction Without Convolutions | [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Pyramid_Vision_Transformer_A_Versatile_Backbone_for_Dense_Prediction_Without_ICCV_2021_paper.html) |
+| 26 | A Convnet for the 2020s | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_Convnet_for_the_2020s_CVPR_2022_paper.html) |
+| 27 | Edgenext: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications | [Link](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_1) |
+| 28 | Metaformer Is Actually What You Need for Vision | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Metaformer_Is_Actually_What_You_Need_for_Vision_CVPR_2022_paper.html) |
+| 29 | Cyclemlp: a Mlp-like Architecture for Dense Prediction | [Link](https://arxiv.org/abs/2107.10224) |
+| 30 | Efficientvit: Memory Efficient Vision Transformer with Cascaded Group Attention | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Efficientvit_Memory_Efficient_Vision_Transformer_With_Cascaded_Group_Attention_CVPR_2023_paper.html) |
+| 31 | Run, Don’t Walk: Chasing Higher Flops for Faster Neural Networks | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Run_Dont_Walk_Chasing_Higher_Flops_for_Faster_Neural_Networks_CVPR_2023_paper.html) |
+| 32 | N-gram in Swin Transformers for Efficient Lightweight Image Super-resolution | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Choi_N-Gram_in_Swin_Transformers_for_Efficient_Lightweight_Image_Super-Resolution_CVPR_2023_paper.html) |
 
 ***
 ## Activation Function
@@ -77,16 +76,16 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 | 1 | Maxout Networks | [Link](https://proceedings.mlr.press/v28/goodfellow13) |
 | 2 | Rectifier Nonlinearities Improve Neural Network Acoustic Models | [Link](http://robotics.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf) |
 | 3 | Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification | [Link](https://openaccess.thecvf.com/content_iccv_2015/html/He_Delving_Deep_into_ICCV_2015_paper.html) |
-| 4 | FAST AND ACCURATE DEEP NETWORK LEARNING BY EXPONENTIAL LINEAR UNITS (ELUS) | [Link](https://arxiv.org/abs/1511.07289) |
-| 5 | GAUSSIAN ERROR LINEAR UNITS (GELUS) | [Link](https://arxiv.org/abs/1606.08415) |
+| 4 | Fast And Accurate Deep Network Learning By Exponential Linear Units (Elus) | [Link](https://arxiv.org/abs/1511.07289) |
+| 5 | Gaussian Error Linear Units (Gelus) | [Link](https://arxiv.org/abs/1606.08415) |
 | 6 | Self-Normalizing Neural Networks | [Link](https://proceedings.neurips.cc/paper_files/paper/2017/hash/5d44ee6f2c3f71b73125876103c8f6c4-Abstract.html) |
-| 7 | SEARCHING FOR ACTIVATION FUNCTIONS | [Link](https://arxiv.org/abs/1710.05941) |
-| 8 | Activation Functions: Comparison of Trends in Practice and Research for Deep Learning | [Link](https://arxiv.org/abs/1811.03378) |
+| 7 | Searching For Activation Functions | [Link](https://arxiv.org/abs/1710.05941) |
+| 8 | Activation Functions: Comparison Of Trends In Practice And Research For Deep Learning | [Link](https://arxiv.org/abs/1811.03378) |
 | 9 | Mish: A Self Regularized Non-Monotonic Activation Function | [Link](https://arxiv.org/abs/1908.08681) |
-| 10 | Activation Functions in Deep Learning: A Comprehensive Survey and Benchmark | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231222008426) |
-| 11 | Parametric Leaky Tanh: A New Hybrid Activation Function for Deep Learning | [Link](https://arxiv.org/abs/2310.07720) |
-| 12 | GELU Activation Function in Deep Learning: A Comprehensive Mathematical Analysis and Performance | [Link](https://arxiv.org/abs/2305.12073) |
-| 13 | Deep Network Approximation: Beyond ReLU to Diverse Activation Functions | [Link](https://www.jmlr.org/papers/volume25/23-0912/23-0912.pdf) |
+| 10 | Activation Functions In Deep Learning: A Comprehensive Survey And Benchmark | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231222008426) |
+| 11 | Parametric Leaky Tanh: A New Hybrid Activation Function For Deep Learning | [Link](https://arxiv.org/abs/2310.07720) |
+| 12 | Gelu Activation Function In Deep Learning: A Comprehensive Mathematical Analysis And Performance | [Link](https://arxiv.org/abs/2305.12073) |
+| 13 | Deep Network Approximation: Beyond Relu To Diverse Activation Functions | [Link](https://www.jmlr.org/papers/volume25/23-0912/23-0912.pdf) |
 
 
 ***
