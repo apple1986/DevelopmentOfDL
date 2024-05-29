@@ -32,6 +32,7 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 ***
 ## Efficient reasoning
+
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
 | 1 | Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | [Link](https://ojs.aaai.org/index.php/aaai/article/view/11231) |
@@ -70,6 +71,27 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 ***
 ## Activation Function
+
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
+| 1 | Maxout Networks | [Link](https://proceedings.mlr.press/v28/goodfellow13) |
+| 2 | Rectifier Nonlinearities Improve Neural Network Acoustic Models | [Link](http://robotics.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf) |
+| 3 | Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification | [Link](https://openaccess.thecvf.com/content_iccv_2015/html/He_Delving_Deep_into_ICCV_2015_paper.html) |
+| 4 | FAST AND ACCURATE DEEP NETWORK LEARNING BY EXPONENTIAL LINEAR UNITS (ELUS) | [Link](https://arxiv.org/abs/1511.07289) |
+| 5 | GAUSSIAN ERROR LINEAR UNITS (GELUS) | [Link](https://arxiv.org/abs/1606.08415) |
+| 6 | Self-Normalizing Neural Networks | [Link](https://proceedings.neurips.cc/paper_files/paper/2017/hash/5d44ee6f2c3f71b73125876103c8f6c4-Abstract.html) |
+| 7 | SEARCHING FOR ACTIVATION FUNCTIONS | [Link](https://arxiv.org/abs/1710.05941) |
+| 8 | Activation Functions: Comparison of Trends in Practice and Research for Deep Learning | [Link](https://arxiv.org/abs/1811.03378) |
+| 9 | Mish: A Self Regularized Non-Monotonic Activation Function | [Link](https://arxiv.org/abs/1908.08681) |
+| 10 | Activation Functions in Deep Learning: A Comprehensive Survey and Benchmark | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231222008426) |
+| 11 | Parametric Leaky Tanh: A New Hybrid Activation Function for Deep Learning | [Link](https://arxiv.org/abs/2310.07720) |
+| 12 | GELU Activation Function in Deep Learning: A Comprehensive Mathematical Analysis and Performance | [Link](https://arxiv.org/abs/2305.12073) |
+| 13 | Deep Network Approximation: Beyond ReLU to Diverse Activation Functions | [Link](https://www.jmlr.org/papers/volume25/23-0912/23-0912.pdf) |
+
+
+***
+## Activation Function
+
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
 | 1 | 文本 | [Link]() |
