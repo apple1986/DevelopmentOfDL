@@ -2,6 +2,19 @@
 The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 **Content**
+* [Scale Features](#1)
+* [Efficient reasoning](#2)
+* [Activation Function](#3)
+* [Loss Function](#4)
+* [Transfer learning](#5)
+* [Weight Initialization](#6)
+* [Data Augmentation](#7)
+* [Feature Normalization](#8)  
+* [Network](#9)
+* [Related research](#10)
+* [Optimization algorithm](#11)
+* [Regularization Constraint](#12)
+
 >Scale Features
 >Efficient reasoning
 >Activation Function
