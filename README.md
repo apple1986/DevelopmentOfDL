@@ -1,9 +1,3 @@
-<style>
-  table {
-    font-size: 12px;
-  }
-</style>
-
 # **The Fundamental Development of Deep Learning in Computer Vision**
 The Fundamental Development of Deep Learning in Computer Vision: A Review
 
@@ -23,7 +17,12 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 ***
 <h2 id="1"> Scale Features
-
+<style>
+  table {
+    font-size: 12px;
+  }
+</style>
+  
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
 | 1 | Going Deeper with Convolutions | [Link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html)|
