@@ -1,3 +1,9 @@
+<style>
+  table {
+    font-size: 12px;
+  }
+</style>
+
 # **The Fundamental Development of Deep Learning in Computer Vision**
 The Fundamental Development of Deep Learning in Computer Vision: A Review
 
