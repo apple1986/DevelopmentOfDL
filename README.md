@@ -1,2 +1,2 @@
-# The development of deep learning in computer vision
-The development of deep learning in computer vision: a review
+# The Fundamental Development of Deep Learning in Computer Vision
+The Fundamental Development of Deep Learning in Computer Vision: A Review
