@@ -89,46 +89,180 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 
 ***
-## Activation Function
+## Loss Function
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
-| 1 | 文本 | [Link]() |
-| 2 | 文本 | [Link]() |
-| 3 | 文本 | [Link]() |
-| 4 | 文本 | [Link]() |
-| 5 | 文本 | [Link]() |
-| 6 | 文本 | [Link]() |
-| 7 | 文本 | [Link]() |
-| 8 | 文本 | [Link]() |
-| 9 | 文本 | [Link]() |
-| 10 | 文本 | [Link]() |
-| 11 | 文本 | [Link]() |
-| 12 | 文本 | [Link]() |
-| 13 | 文本 | [Link]() |
-| 14 | 文本 | [Link]() |
-| 15 | 文本 | [Link]() |
-| 16 | 文本 | [Link]() |
-| 17 | 文本 | [Link]() |
-| 18 | 文本 | [Link]() |
-| 19 | 文本 | [Link]() |
-| 20 | 文本 | [Link]() |
-| 21 | 文本 | [Link]() |
-| 22 | 文本 | [Link]() |
-| 23 | 文本 | [Link]() |
-| 24 | 文本 | [Link]() |
-| 25 | 文本 | [Link]() |
-| 26 | 文本 | [Link]() |
-| 27 | 文本 | [Link]() |
-| 28 | 文本 | [Link]() |
-| 29 | 文本 | [Link]() |
-| 30 | 文本 | [Link]() |
-| 31 | 文本 | [Link]() |
-| 32 | 文本 | [Link]() |
+| 1 | FaceNet: A Unified Embedding for Face Recognition and Clustering | [Link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html) |
+| 2 | A Discriminative Feature Learning Approach for Deep Face Recognition | [Link](https://link.springer.com/chapter/10.1007/978-3-319-46478-7_31) |
+| 3 | Focal Loss for Dense Object Detection | [Link](https://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html) |
+| 4 | A General and Adaptive Robust Loss Function | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Barron_A_General_and_Adaptive_Robust_Loss_Function_CVPR_2019_paper.html) |
+| 5 | Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Rezatofighi_Generalized_Intersection_Over_Union_A_Metric_and_a_Loss_for_CVPR_2019_paper.html) |
+| 6 | Symmetric Cross Entropy for Robust Learning with Noisy Labels | [Link](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Symmetric_Cross_Entropy_for_Robust_Learning_With_Noisy_Labels_ICCV_2019_paper.html) |
+| 7 | Unpaired Image-to-Image Translation using Adversarial Consistency Loss | [Link](https://link.springer.com/chapter/10.1007/978-3-030-58545-7_46) |
+| 8 | ArcFace: Additive Angular Margin Loss for Deep Face Recognition | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.html) |
+| 9 | Balanced MSE for Imbalanced Visual Regression | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Ren_Balanced_MSE_for_Imbalanced_Visual_Regression_CVPR_2022_paper.html) |
+| 10 | Cross-Entropy Loss Functions: Theoretical Analysis and Applications | [Link](https://proceedings.mlr.press/v202/mao23b.html) |
 
 
+***
+## Transfer learning
+
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
+| 1 | Domain Adaptation via Transfer Component Analysis | [Link](https://ieeexplore.ieee.org/abstract/document/5640675) |
+| 2 | Geodesic Flow Kernel for Unsupervised Domain Adaptation | [Link](https://ieeexplore.ieee.org/abstract/document/6247911) |
+| 3 | Learning Transferable Features with Deep Adaptation Networks | [Link](https://proceedings.mlr.press/v37/long15) |
+| 4 | A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning | [Link](https://openaccess.thecvf.com/content_cvpr_2017/html/Yim_A_Gift_From_CVPR_2017_paper.html) |
+| 5 | Learning Features by Watching Objects Move | [Link](https://openaccess.thecvf.com/content_cvpr_2017/html/Pathak_Learning_Features_by_CVPR_2017_paper.html) |
+| 6 | Representation Learning by Learning to Count | [Link](https://openaccess.thecvf.com/content_iccv_2017/html/Noroozi_Representation_Learning_by_ICCV_2017_paper.html) |
+| 7 | CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise | [Link](https://openaccess.thecvf.com/content_cvpr_2018/html/Lee_CleanNet_Transfer_Learning_CVPR_2018_paper.html) |
+| 8 | Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning | [Link](https://openaccess.thecvf.com/content_cvpr_2018/html/Cui_Large_Scale_Fine-Grained_CVPR_2018_paper.html) |
+| 9 | Partial Transfer Learning with Selective Adversarial Networks | [Link](https://openaccess.thecvf.com/content_cvpr_2018/html/Cao_Partial_Transfer_Learning_CVPR_2018_paper.html) |
+| 10 | Instance-based Deep Transfer Learning | [Link](https://ieeexplore.ieee.org/abstract/document/8659197) |
+| 11 | Characterizing and Avoiding Negative Transfer | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Characterizing_and_Avoiding_Negative_Transfer_CVPR_2019_paper.html) |
+| 12 | Do Better ImageNet Models Transfer Better? | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Kornblith_Do_Better_ImageNet_Models_Transfer_Better_CVPR_2019_paper.html) |
+| 13 | Meta-Transfer Learning for Few-Shot Learning | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.html) |
+| 14 | Local Aggregation for Unsupervised Learning of Visual Embeddings | [Link](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhuang_Local_Aggregation_for_Unsupervised_Learning_of_Visual_Embeddings_ICCV_2019_paper.html) |
+| 15 | Unsupervised Person Re-identification via Multi-label Classification | [Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Unsupervised_Person_Re-Identification_via_Multi-Label_Classification_CVPR_2020_paper.html) |
+| 16 | CutPaste: Self-Supervised Learning for Anomaly Detection and Localization | [Link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_CutPaste_Self-Supervised_Learning_for_Anomaly_Detection_and_Localization_CVPR_2021_paper.html) |
+| 17 | Mixed Supervised Object Detection by Transferring Mask Prior and Semantic Similarity | [Link](https://proceedings.neurips.cc/paper_files/paper/2021/hash/20885c72ca35d75619d6a378edea9f76-Abstract.html) |
+| 18 | Seasonal Contrast: Unsupervised Pre-Training from Uncurated Remote Sensing Data | [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Manas_Seasonal_Contrast_Unsupervised_Pre-Training_From_Uncurated_Remote_Sensing_Data_ICCV_2021_paper.html) |
+| 19 | Weak-shot Fine-grained Classification via Similarity Transfer | [Link](https://proceedings.neurips.cc/paper/2021/hash/3bd4017318837e92a66298c7855f4427-Abstract.html) |
+| 20 | BiMaL: Bijective Maximum Likelihood Approach to Domain Adaptation in Semantic Scene Segmentation | [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Truong_BiMaL_Bijective_Maximum_Likelihood_Approach_to_Domain_Adaptation_in_Semantic_ICCV_2021_paper.html) |
+| 21 | DeepGaze IIE: Calibrated prediction in and out-of-domain for state-of-the-art saliency modeling | [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Linardos_DeepGaze_IIE_Calibrated_Prediction_in_and_Out-of-Domain_for_State-of-the-Art_Saliency_ICCV_2021_paper.html) |
+| 22 | With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations | [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Dwibedi_With_a_Little_Help_From_My_Friends_Nearest-Neighbor_Contrastive_Learning_ICCV_2021_paper.html) |
+| 23 | A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html) |
+| 24 | How Well Do Sparse ImageNet Models Transfer? | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Iofinova_How_Well_Do_Sparse_ImageNet_Models_Transfer_CVPR_2022_paper.html) |
+| 25 | Zero-shot Generative Model Adaptation via Image-specific Prompt Learning | [Link](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Zero-Shot_Generative_Model_Adaptation_via_Image-Specific_Prompt_Learning_CVPR_2023_paper.html) |
 
 
+***
+## Weight Initialization
+
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
+| 1 | Sparse Feature Learning for Deep Belief Networks | [Link](https://proceedings.neurips.cc/paper_files/paper/2007/hash/c60d060b946d6dd6145dcbad5c4ccf6f-Abstract.html) |
+| 2 | Understanding the difficulty of training deep feedforward neural networks | [Link](https://proceedings.mlr.press/v9/glorot10a) |
+| 3 | Exact solutions to the nonlinear dynamics of learning in deep linear neural networks | [Link](https://arxiv.org/abs/1312.6120) |
+| 4 | Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification | [Link](https://openaccess.thecvf.com/content_iccv_2015/html/He_Delving_Deep_into_ICCV_2015_paper.html) |
+| 5 | Layer Normalization | [Link](https://arxiv.org/abs/1607.06450) |
+| 6 | Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks | [Link](https://proceedings.neurips.cc/paper/2016/hash/ed265bc903a5a097f61d3ec064d96d2e-Abstract.html) |
+| 7 | Instance Normalization: The Missing Ingredient for Fast Stylization | [Link](https://arxiv.org/abs/1607.08022) |
+| 8 | On weight initialization in deep neural networks | [Link](https://arxiv.org/abs/1704.08863) |
+| 9 | Understanding and Improving Layer Normalization | [Link](https://proceedings.neurips.cc/paper_files/paper/2019/file/2f4fe03d77724a7217006e5d16728874-Reviews.html) |
 
 
-   
+***
+## Data Augmentation
+
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
+| 1 | Improved Regularization of Convolutional Neural Networks with Cutout | [Link](https://arxiv.org/abs/1708.04552) |
+| 2 | mixup: Beyond Empirical Risk Minimization | [Link](https://arxiv.org/abs/1710.09412) |
+| 3 | AutoAugment: Learning Augmentation Strategies from Data | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.html) |
+| 4 | Bag of Tricks for Image Classification with Convolutional Neural Networks | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.html) |
+| 5 | CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features | [Link](https://openaccess.thecvf.com/content_ICCV_2019/html/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.html) |
+| 6 | A survey on Image Data Augmentation for Deep Learning | [Link](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0) |
+| 7 | Augmix: A simple data processing method to improve robustness and uncertainty | [Link](https://arxiv.org/abs/1912.02781) |
+| 8 | Albumentations: Fast and Flexible Image Augmentations | [Link](https://www.mdpi.com/2078-2489/11/2/125?ref=https://githubhelp.com) |
+| 9 | Randomized Quantization: A Generic Augmentation for Data Agnostic Self-supervised Learning | [Link](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Randomized_Quantization_A_Generic_Augmentation_for_Data_Agnostic_Self-supervised_Learning_ICCV_2023_paper.html) |
+| 10 | Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review | [Link](https://www.mdpi.com/2313-433X/9/4/81) |
+
+***
+## Feature Normalization
+
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
+| 1 | MIPHENO: data normalization for high throughput metabolite analysis | [Link](https://wit.metaersp.cn/databaseDetail?databaseNum=DB_64a96aacf06f421788dc1e0fef9af775) |
+| 2 | A Few Useful Things to Know about Machine Learning | [Link](https://dl.acm.org/doi/pdf/10.1145/2347736.2347755) |
+| 3 | Group Normalization | [Link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.html) |
+| 4 | Batch Group Normalization | [Link](https://arxiv.org/abs/2012.02782) |
+| 5 | An Improved U-Net Architecture for Image Dehazing | [Link](https://search.ieice.org/bin/summary.php?id=e104-d_12_2218) |
+| 6 | Classification Model of Point Cloud Along Transmission Line Based on Group Normalization | [Link](https://www.frontiersin.org/articles/10.3389/fenrg.2022.839273/full) |
+| 7 | Enhanced individual characteristics normalized lightweight rice-VGG16 method for rice seed defect recognition | [Link](https://ersplibrary.wit.edu.cn/s/com/springer/link/G.https/article/10.1007/s11042-022-13420-y) |
+| 8 | Experimenting with Normalization Layers in Federated Learning on non-IID scenarios| [Link](https://ieeexplore.ieee.org/abstract/document/10486903) |
+| 9 | Fault Diagnosis of Rotating Machinery Based on the Improved Multidimensional Normalization ResNet | [Link](https://ieeexplore.ieee.org/abstract/document/10177201) |
+| 10 | Cluster-instance normalization: A statistical relation-aware normalization for generalizable person re-identification | [Link](https://ieeexplore.ieee.org/abstract/document/10243072) |
+
+
+***
+## Network 
+
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
+| 1 | Generative Adversarial Nets | [Link](https://proceedings.neurips.cc/paper_files/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html) |
+| 2 | Deep Residual Learning for Image Recognition | [Link](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) |
+| 3 | Very deep convolutional networks for large-scale image recognition | [Link](https://arxiv.org/abs/1409.1556) |
+| 4 | U-Net: Convolutional Networks for Biomedical Image Segmentation | [Link](https://arxiv.org/abs/1505.04597) |
+| 5 | Dynamic Routing Between Capsules | [Link](https://proceedings.neurips.cc/paper_files/paper/2017/file/2cad8fa47bbef282badbb8de5374b894-Paper.pdf) |
+| 6 | ImageNet Classification with Deep Convolutional Neural Networks | [Link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) |
+| 7 | Attention Is All You Need | [Link](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) |
+| 8 | LSTM: A Search Space Odyssey | [Link](https://ieeexplore.ieee.org/document/7508408) |
+| 9 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | [Link](https://arxiv.org/abs/1905.11946) |
+| 10 | Denoising Diffusion Probabilistic Models | [Link](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) |
+| 11 | Training data-efficient image transformers & distillation through attention | [Link](https://arxiv.org/abs/2012.12877) |
+| 12 | Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition | [Link](https://arxiv.org/abs/2106.12368) |
+| 13 | Music Generation Using an LSTM | [Link](https://arxiv.org/pdf/2203.12105) |
+| 14 | Sequencer: Deep LSTM for Image Classification | [Link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f9d7d6c695bc983fcfb5b70a5fbdfd2f-Abstract-Conference.html) |
+
+
+***
+## Related research
+
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
+| 1 | A Review on Deep Learning Techniques Applied to Semantic Segmentation | [Link](https://arxiv.org/abs/1704.06857) |
+| 2 | Transfer Metric Learning: Algorithms, Applications and Outlooks | [Link](https://arxiv.org/abs/1810.03944) |
+| 3 | Transfer Adaptation Learning: A Decade Survey | [Link](https://ieeexplore.ieee.org/abstract/document/9802910) |
+| 4 | Image Segmentation Using Deep Learning: A Survey | [Link](https://ieeexplore.ieee.org/abstract/document/9356353) |
+| 5 | Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation | [Link](https://www.sciencedirect.com/science/article/abs/pii/S136184152030058X) |
+| 6 | A Comprehensive Survey on Transfer Learning | [Link](https://ieeexplore.ieee.org/abstract/document/9134370) |
+| 7 | Transfer Learning for Wireless Networks: A Comprehensive Survey | [Link](https://ieeexplore.ieee.org/abstract/document/9789336) |
+| 8 | A Review of Deep Transfer Learning and Recent Advancements | [Link](https://www.mdpi.com/2227-7080/11/2/40) |
+| 9 | Transformers in Medical Image Analysis: A Review | [Link](https://arxiv.org/abs/2202.12165) |
+| 10 | Medical Image Segmentation Review: The Success of U-Net | [Link](https://arxiv.org/abs/2211.14830) |
+| 11 | Transferability in Deep Learning: A Survey | [Link](https://arxiv.org/abs/2201.05867) |
+| 12 | Techniques and Challenges of Image Segmentation: A Review | [Link](https://www.mdpi.com/2079-9292/12/5/1199) |
+| 13 | Transfer Learning in Deep Reinforcement Learning: A Survey | [Link](https://ieeexplore.ieee.org/abstract/document/10172347) |
+
+
+***
+## Optimization algorithm
+
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
+| 1 | Adaptive Subgradient Methods for Online Learning and Stochastic Optimization | [Link](https://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf) |
+| 2 | ADADELTA: An Adaptive Learning Rate Method | [Link](https://arxiv.org/abs/1212.5701) |
+| 3 | On the importance of initialization and momentum in deep learning | [Link](https://proceedings.mlr.press/v28/sutskever13.html) |
+| 4 | Generating Sequences With Recurrent Neural Networks | [Link](https://arxiv.org/abs/1308.0850) |
+| 5 | ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION | [Link](https://arxiv.org/abs/1412.6980) |
+| 6 | INCORPORATING NESTEROV MOMENTUM INTO ADAM | [Link](https://openreview.net/forum?id=OM0jvwB8jIp57ZJjtNEZ) |
+| 7 | FIXING WEIGHT DECAY REGULARIZATION IN ADAM | [Link](https://openreview.net/forum?id=rk6qdGgCZ) |
+| 8 | ON THE CONVERGENCE OF ADAM AND BEYOND | [Link](https://arxiv.org/abs/1904.09237) |
+| 9 | ADAPTIVE GRADIENT METHODS WITH DYNAMIC BOUND OF LEARNING RATE | [Link](https://arxiv.org/abs/1902.09843) |
+
+
+***
+## Regularization Constraint
+
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
+| 1 | The Regularized EM Algorithm | [Link](https://cdn.aaai.org/AAAI/2005/AAAI05-127.pdf) |
+| 2 | Regularization and variable selection via the elastic net | [Link](https://academic.oup.com/jrsssb/article/67/2/301/7109482) |
+| 3 | Discriminatively regularized least-squares classification | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320308002872) |
+| 4 | Dropout: A Simple Way to Prevent Neural Networks from Overfitting | [Link](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,) |
+| 5 | Independently Interpretable Lasso: A New Regularizer for Sparse Regression with Uncorrelated Variables | [Link](https://proceedings.mlr.press/v84/takada18a.html) |
+| 6 | Transformed ℓ1 regularization for learning sparse deep neural networks | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608019302321) |
+| 7 | A Theory of Regularized Markov Decision Processes | [Link](https://proceedings.mlr.press/v97/geist19a.html) |
+| 8 | Behavior Regularized Offline Reinforcement Learning | [Link](https://arxiv.org/abs/1911.11361) |
+| 9 | Low Rank Regularization: A review | [Link](https://www.sciencedirect.com/science/article/abs/pii/S089360802030352X) |
+| 10 | Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering | [Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.html) |
+| 11 | Laplacian Regularized Few-Shot Learning | [Link](https://proceedings.mlr.press/v119/ziko20a.html) |
+| 12 | Critic Regularized Regression | [Link](https://proceedings.neurips.cc/paper_files/paper/2020/file/588cb956d6bbe67078f29f8de420a13d-Paper.pdf) |
+| 13 | GGLasso -- a Python package for General Graphical Lasso computation | [Link](https://arxiv.org/abs/2110.10521) |
+| 14 | R-Drop: Regularized Dropout for Neural Networks | [Link](https://proceedings.neurips.cc/paper/2021/hash/5a66b9200f29ac3fa0ae244cc2a51b39-Abstract.html) |
+| 15 | Image Data Augmentation Approaches: A Comprehensive Survey and Future directions | [Link](https://arxiv.org/abs/2301.02830) |
+| 16 | Out-of-distribution Detection via Frequency-regularized Generative Models | [Link](https://openaccess.thecvf.com/content/WACV2023/html/Cai_Out-of-Distribution_Detection_via_Frequency-Regularized_Generative_Models_WACV_2023_paper.html) |
+
+  
