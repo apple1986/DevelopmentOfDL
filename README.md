@@ -17,11 +17,6 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 ***
 <h2 id="1"> Scale Features
-<style>
-  table {
-    font-size: 12px;
-  }
-</style>
   
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
