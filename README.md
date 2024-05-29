@@ -262,13 +262,13 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 | Number | Article Title | Article Link |
 | ------ | ------ | ------ |
-| 1 | The Regularized EM Algorithm | [Link](https://cdn.aaai.org/AAAI/2005/AAAI05-127.pdf) |
-| 2 | Regularization And Variable Selection Via The Elastic Net | [Link](https://academic.oup.com/jrsssb/article/67/2/301/7109482) |
-| 3 | Discriminatively Regularized Least-Squares Classification | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320308002872) |
-| 4 | Dropout: A Simple Way To Prevent Neural Networks From Overfitting | [Link](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,) |
-| 5 | Independently Interpretable Lasso: A New Regularizer For Sparse Regression With Uncorrelated Variables | [Link](https://proceedings.mlr.press/v84/takada18a.html) |
-| 6 | Transformed ℓ1 Regularization For Learning Sparse Deep Neural Networks | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608019302321) |
-| 7 | A Theory Of Regularized Markov Decision Processes | [Link](https://proceedings.mlr.press/v97/geist19a.html) |
+| 1      | The Regularized EM Algorithm | [Link](https://cdn.aaai.org/AAAI/2005/AAAI05-127.pdf) |
+| 2      | Regularization And Variable Selection Via The Elastic Net | [Link](https://academic.oup.com/jrsssb/article/67/2/301/7109482) |
+| 3      | Discriminatively Regularized Least-Squares Classification | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320308002872) |
+| 4      | Dropout: A Simple Way To Prevent Neural Networks From Overfitting | [Link](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,) |
+| 5      | Independently Interpretable Lasso: A New Regularizer For Sparse Regression With Uncorrelated Variables | [Link](https://proceedings.mlr.press/v84/takada18a.html) |
+| 6      | Transformed ℓ1 Regularization For Learning Sparse Deep Neural Networks | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608019302321) |
+| 7      | A Theory Of Regularized Markov Decision Processes | [Link](https://proceedings.mlr.press/v97/geist19a.html) |
 | 8 | Behavior Regularized Offline Reinforcement Learning | [Link](https://arxiv.org/abs/1911.11361) |
 | 9 | Low Rank Regularization: A Review | [Link](https://www.sciencedirect.com/science/article/abs/pii/S089360802030352X) |
 | 10 | Unsupervised Domain Adaptation Via Structurally Regularized Deep Clustering | [Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.html) |
