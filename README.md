@@ -15,19 +15,6 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 * [Optimization algorithm](#11)
 * [Regularization Constraint](#12)
 
->Scale Features
->Efficient reasoning
->Activation Function
->Loss Function
->Transfer learning
->Weight Initialization
->Data Augmentation
->Feature Normalization
->Network
->Related research
->Optimization algorithm
->Regularization Constraint
-
 ***
 ## Scale Features
 
