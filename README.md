@@ -32,6 +32,8 @@ The Fundamental Development of Deep Learning in Computer Vision: A Review
 
 ***
 ## Efficient reasoning
+| Number | Article Title | Article Link |
+| ------ | ------ | ------ |
 | 1 | Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | [Link](https://ojs.aaai.org/index.php/aaai/article/view/11231) |
 | 2 | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | [Link](https://arxiv.org/abs/1704.04861) |
 | 3 | ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices | [Link](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ShuffleNet_An_Extremely_CVPR_2018_paper.html) |
